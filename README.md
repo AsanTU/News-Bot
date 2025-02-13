@@ -25,4 +25,4 @@ Telegram-бот для получения актуальной информац�
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_логин/news-weather-bot.git
+   git clone https://github.com/AsanTU/News-Bot.git
